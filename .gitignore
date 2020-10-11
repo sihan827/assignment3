@@ -1,0 +1,5 @@
+# .gitignore
+# ignore object files
+*.o
+# ignore kernel object files
+*.ko
